@@ -1,2 +1,41 @@
-# sql_data_warehouse_project
-Building a data warehouse with SQL server, using ETL processes , data modeling ,  and analytics.
+# sql-data-warehouse-project
+
+Welcome to the  **Data Warehouse and Analytics Project** repository!
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a dtawarehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
+
+---
+
+## Project Requirements
+
+### Building The Datawarehouse(Data Engineering)
+
+#### Objective 
+Develop a modern Datawarehouse using SQL server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+#### Specifications
+- **Data Sources** : Import data from two source system (ERP and CRM ) Provided as CSV files.
+- **Data Quality** : Cleanse and resolve data quality issues prior to analysis.
+- **Integration** : Combine both sources into a single, user-friendly data model designed for analytical queries.
+- **Scope** : Focus on the latest dataset only; historization of data is not required.
+- **Ducumentation** : Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+---
+
+### BI : Analytics & Reporting (Data Analytics)
+
+#### Objective 
+Develop SQL-based analytics to deliver ensights into:
+- **Customer Behavior**
+- **Product Performancr**
+- **Sales Trends**
+
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+---
+
+## License
+
+This project is licensed under the [ MIT License](LICENSE). You are free to use , modify, and share this project wit proper atribution.
+
+## About Me
+Hi! I’m **Tanvi Baheti**, an MSc Mathematics & Computing student at BHU with a strong interest in Data Analytics. I enjoy using mathematics, Python, and SQL to analyze data and solve real-world problems. Always learning, building, and growing through hands-on projects and internships.
